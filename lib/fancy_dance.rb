@@ -1,0 +1,3 @@
+module FanceDance
+  module InstanceMethods
+    
